@@ -21,4 +21,4 @@ class TestClassNoTypeHint:
 
     def test_soma_strings(self):
         assert calculadora.soma("dois", "tres") == "doistres"
-    # doistres <str>
+        # doistres <str>
